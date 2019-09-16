@@ -10,7 +10,13 @@ https://github.com/hukkelas/DeepPrivacy
 
 https://github.com/vapor-ware/sctl
 
+https://slapbot.github.io/
 
+https://github.com/MycroftAI
+
+https://github.com/linto-ai
+
+https://github.com/OPNids
 
 
 
