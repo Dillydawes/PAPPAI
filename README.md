@@ -16,8 +16,10 @@ https://coral.withgoogle.com/
 
 
 # Must have
-PAPPAI code must be open and easly accessed, so its security can be verified by all with the ability.  
+PAPPAI code must be open and easly accessed, so its security can be verified by all with the ability.
+  
 PAPPAI will obey Asimov's three laws.
+
 PAPPAI needs to track and security the users social media on all platforms.
-PAPPAI needs to find issues in users privacy currenty and suggest and perform needed fixes to protect the user. 
-PAPPAI 
+
+PAPPAI needs to find issues in users privacy currenty and suggest and perform needed fixes to protect the user.
