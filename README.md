@@ -4,13 +4,17 @@ PIPai - will be your personal assistant and personal protective AI.  Currently t
 
 # Repos and links
 https://github.com/hukkelas/DeepPrivacy
+
 https://github.com/vapor-ware/sctl
+
+
+
+
+
+
+
+# Hardware
 https://coral.withgoogle.com/
-
-
-
-
-# hardware
 
 
 
